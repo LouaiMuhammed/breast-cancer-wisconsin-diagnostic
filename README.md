@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin (Diagnostic) - Classification Project
+# Breast Cancer Wisconsin (Diagnostic) - Normality Testing Project
 
 ## Overview
 
@@ -81,18 +81,6 @@ As part of the preprocessing and exploratory phase, we assessed the **normality*
 
 ---
 
-## File Contents
-
-This project may include the following:
-
-- `notebooks/`: Exploratory data analysis (EDA) and model-building notebooks
-- `data/`: Preprocessed or raw CSV files
-- `models/`: Saved machine learning models
-- `results/`: Visualizations, performance metrics, and reports
-- `src/`: Python scripts for data processing and model training
-- `README.md`: Project documentation (you’re here)
-
----
 
 ## Resources & References
 
